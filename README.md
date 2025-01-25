@@ -1,0 +1,2 @@
+# JAVASCRIPT
+A code for JAVASCRIPT 
